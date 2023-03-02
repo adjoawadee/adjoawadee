@@ -9,7 +9,7 @@ I'm a Frontend engineer @ Passionate People 👩🏽‍💻
 5. I'm a creative soul endulging in both artsy things, fashion and techy things in my free time 👩🏽‍🎨
 
 
-### In no particular order, here are all the things I've worked with (considering the chaos, I probably forgot a few)
+### 🧞‍♀️ In no particular order, here are all the things I've worked with *(considering the chaos, I probably forgot a few)*
 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="50" height="50"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="50" height="50"></a>
@@ -36,6 +36,6 @@ I'm a Frontend engineer @ Passionate People 👩🏽‍💻
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="50" height="50"></a>
 
 
-### Sometimes I write some tech blogs here: https://dev.to/adjoawadee
+### ✍🏾 Sometimes I write some tech blogs here: https://dev.to/adjoawadee 
 
 
