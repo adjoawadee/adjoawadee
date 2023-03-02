@@ -37,5 +37,6 @@ I'm a Frontend engineer @ Passionate People 👩🏽‍💻
 
 
 ### ✍🏾 Sometimes I write some tech blogs here: https://dev.to/adjoawadee 
+### 🐥 Follow me on twitter @adjoa_wadee 
 
 
