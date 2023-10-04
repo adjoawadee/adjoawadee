@@ -2,7 +2,7 @@
 I'm a Frontend engineer @ Passionate People 👩🏽‍💻
 
 ### Facts about myself 😻
-1. I have 6 years of experience developing web applications 🐒  
+1. I have 7 years of experience developing web applications 🐒  
 2. Having studied Software Engineering in uni, I picked up all things web on my own 🤓
 3. I perform best in a team that is very supportive of each other 👯‍♀️
 4. I own a couple of domains that I plan on using someday 💎 *(...shh 🤫 I don't want anyone to steal the rest yet)*
