@@ -1,5 +1,5 @@
 # Adjoa here, hi 🙋🏽‍♀️ & welcome ✨
-I'm a Frontend engineer @ Passionate People 👩🏽‍💻
+I'm a Frontend Developer @ CINQ ICT 👩🏽‍💻
 
 ### Facts about myself 😻
 1. I have 7 years of experience developing web applications 🐒  
